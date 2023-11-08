@@ -1,0 +1,14 @@
+# Byte-compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Environment configuration
+.env
